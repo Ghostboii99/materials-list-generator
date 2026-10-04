@@ -1,6 +1,6 @@
 # Materials List Generator
 
-A command-line Python tool that converts simple wall dimensions into a repeatable framing-material estimate. It demonstrates input validation, domain formulas, configurable waste, and CSV export.
+A Python-based construction estimating tool that converts wall dimensions and framing parameters into purchase-ready material quantities. The tool automates repetitive calculations for studs, plates, and sheathing, applies configurable waste factors, validates inputs, and exports the results to CSV for estimating and purchasing workflows.
 
 ## Features
 
